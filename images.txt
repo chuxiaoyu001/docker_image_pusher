@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 cenlinhe/noahmp_container:AMS_course
+turuncu/ams_ufs:latest
